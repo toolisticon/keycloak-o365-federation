@@ -1,14 +1,15 @@
-# Compiled class file
+#  Build
 *.class
+target/
 
 # Log file
 *.log
 
-# BlueJ files
+# IDEA
 *.ctxt
-
-# Mobile Tools for Java (J2ME)
 .mtj.tmp/
+*.iml
+.idea/*
 
 # Package Files #
 *.jar
